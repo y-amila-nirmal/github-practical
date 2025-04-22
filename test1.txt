@@ -1,3 +1,2 @@
 this is a git testing project
-this delete text
 this is added text
